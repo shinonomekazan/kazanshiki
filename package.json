@@ -1,0 +1,23 @@
+{
+  "name": "kazanshiki",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "社員入社": "board-template -f templates/社員入社.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinonomekazan/kazanshiki.git"
+  },
+  "author": "Shinonomekazan Co., Ltd.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shinonomekazan/kazanshiki/issues"
+  },
+  "homepage": "https://github.com/shinonomekazan/kazanshiki#readme",
+  "dependencies": {
+    "board-template": "^0.1.1"
+  }
+}
