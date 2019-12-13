@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "社員入社:短時間": "board-template -f templates/社員入社-短時間.md",
     "社員入社": "board-template -f templates/社員入社.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
