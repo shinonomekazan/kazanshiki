@@ -6,6 +6,7 @@
   "scripts": {
     "社員入社:短時間": "board-template -f templates/社員入社-短時間.md",
     "社員入社": "board-template -f templates/社員入社.md",
+    "引っ越し": "board-template -f templates/引っ越し.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
